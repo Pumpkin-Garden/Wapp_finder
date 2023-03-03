@@ -1,4 +1,4 @@
-## Web technology scanner based on wappalyzer
+## Web technology scanner based on Wappalyzer
 I was inspired by the quality of web technology discovery by the Wappalyzer app. 
 What you are looking at now is a simple wrapper to scan a large list of web servers with JSON parsing for further viewing in Excel.
 
